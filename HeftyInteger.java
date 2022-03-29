@@ -1,7 +1,3 @@
-/**
- * @author	Dr. Farnan
- */
-package cs1501_p5;
 
 import java.util.Random;
 
